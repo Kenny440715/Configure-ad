@@ -2,7 +2,7 @@
 
 ![Microsoft Active Directory Logo](https://i.imgur.com/pU5A58S.png)
 
-This tutorial provides a guide on how to deploy on-premises Active Directory within Azure Virtual Machines. The aim is to simplify the process and make it as easy to use as possible. We will focus on setting up Active Directory Domain Services (AD DS) on a Windows Server 2022 machine and joining a Windows 10 client to the domain. Additionally, we will cover creating user accounts, enabling remote desktop access, and other related tasks.
+This tutorial provides a guide on how to deploy on-premises Active Directory within Azure Virtual Machines. The aim is to simplify the process and make it as easy to use as possible. We will focus on setting up Active Directory Domain Services (AD DS) on a Windows Server 2022 machine and joining a Windows 10 client to the domain. Additionally, I will cover creating user accounts, enabling remote desktop access, and other related tasks.
 
 ## Environments and Technologies Used
 
@@ -110,4 +110,4 @@ By following these steps, you will successfully configure on-premises Active Dir
 
 ## Summary
 
-This project involved the setup and configuration of on-premises Active Directory within Azure Virtual Machines. We created a Windows Server 2022 VM as a domain controller and a Windows 10 VM as a client. The deployment process included configuring network settings, ensuring connectivity, installing Active Directory, creating user accounts, joining the client to the domain, enabling Remote Desktop access, and testing user logins.
+This project involved the setup and configuration of on-premises Active Directory within Azure Virtual Machines. I created a Windows Server 2022 VM as a domain controller and a Windows 10 VM as a client. The deployment process included configuring network settings, ensuring connectivity, installing Active Directory, creating user accounts, joining the client to the domain, enabling Remote Desktop access, and testing user logins.
